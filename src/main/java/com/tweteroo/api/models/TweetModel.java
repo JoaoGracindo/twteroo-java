@@ -20,7 +20,7 @@ public class TweetModel implements Serializable {
 
     private String avatar;
 
-    private String text;
+    private String tweet;
 
     public long getId() {
         return this.id;
@@ -46,11 +46,11 @@ public class TweetModel implements Serializable {
         this.avatar = avatar;
     }
 
-    public String getText() {
-        return this.text;
+    public String getTweet() {
+        return this.tweet;
     }
 
-    public void setText(String text) {
-        this.text = text;
+    public void setTweet(String tweet) {
+        this.tweet = tweet;
     }
 }
