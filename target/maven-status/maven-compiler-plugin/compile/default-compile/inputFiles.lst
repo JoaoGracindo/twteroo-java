@@ -1,0 +1,7 @@
+/home/joaogracindo/java/tweteroo-api/src/main/java/com/tweteroo/api/controllers/TweetsController.java
+/home/joaogracindo/java/tweteroo-api/src/main/java/com/tweteroo/api/repositories/UserRepository.java
+/home/joaogracindo/java/tweteroo-api/src/main/java/com/tweteroo/api/repositories/TweetRepository.java
+/home/joaogracindo/java/tweteroo-api/src/main/java/com/tweteroo/api/models/UserModel.java
+/home/joaogracindo/java/tweteroo-api/src/main/java/com/tweteroo/api/models/TweetModel.java
+/home/joaogracindo/java/tweteroo-api/src/main/java/com/tweteroo/api/ApiApplication.java
+/home/joaogracindo/java/tweteroo-api/src/main/java/com/tweteroo/api/controllers/UserController.java
